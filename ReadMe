@@ -1,3 +1,11 @@
+Done So Far: 
+Data preparation and cleaning: Processed ECG data from multiple channels (MLII and V5) and synchronized with annotation data (normal and arrhythmic beats),
+aligned ECG signal data with annotated sample indices, preserving the types of heartbeats (e.g., 'N' for normal, 'A' for arrhythmic),
+extracted ECG signal values at annotated sample indices for both MLII and V5 channels, 
+and plotted ECG signals with overlaid annotations to visualize normal and arrhythmic beats for both channels.
+
+
+
 Next Steps:
 
 Correlation Analysis: Perform detailed correlation analysis between the different ECG channels (MLII, V5) to identify specific changes in heartbeats associated with arrhythmias.
