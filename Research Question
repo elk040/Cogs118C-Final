@@ -1,0 +1,4 @@
+Research Question: To determine which parts of a heart beat are changed in various arrhythmias via an observation of the correlation between different channels, building a classifier for these arrhythmias using machine learning methods. 
+
+
+Goal: Develop a robust machine learning model capable of classifying arrhythmias based on the patterns observed in multi-channel ECG data, advancing the understanding of arrhythmia-related changes in heartbeats.
